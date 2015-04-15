@@ -1,0 +1,5 @@
+env=Environment(CPPPATH='/usr/include/c++/4.8',
+                CPPDEFINES=[],
+                LIBS=[],
+                CXXFLAGS="-std=c++11")
+env.Program('11727.bin', Glob('*.cpp'))

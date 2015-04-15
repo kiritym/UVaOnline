@@ -1,0 +1,2 @@
+Program('10921.bin', Glob('*.cpp'))
+
